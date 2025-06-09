@@ -1,7 +1,5 @@
-num1=10
+def addition(num1,num2):
 
-num2=20
+    return num1+num2
 
-mul_result=num1*num2
-
-print(mul_result)
+print(addition(10,20))
