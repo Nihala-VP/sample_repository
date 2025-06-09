@@ -1,5 +1,5 @@
-def addition(num1,num2):
+def multiplication(num1,num2):
 
-    return num1+num2
+    return num1*num2
 
-print(addition(10,20))
+print(multiplication(10,20))
