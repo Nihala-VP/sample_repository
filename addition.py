@@ -1,6 +1,5 @@
-num1=10
-num2=20
+def addition(num1,num2):
 
-result=num1+num2
+  return num1+num2
 
-print(result)
+print(addition(10,20))
